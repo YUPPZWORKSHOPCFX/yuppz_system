@@ -10,7 +10,7 @@ ensure yuppz_system
 # Legal
 ### License
 
-yuppz_system - WEED DRUG
+yuppz_system - system_general
 
 Copyright (C) NiNE YUPPZ / YUPPZWORKSHOPCFX
 
